@@ -1,0 +1,28 @@
+/
+//  .gitignore
+//  MyFavoriteMovie
+//
+//  Created by Mattis Naud on 02/01/2026.
+//
+
+# Xcode
+DerivedData/
+*.xcworkspace
+xcuserdata/
+
+# SwiftPM
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Secrets
+Secrets.xcconfig
+*.env
+
+# Misc
+.DS_Store
